@@ -5,7 +5,7 @@
 |No. | Member Name | Matric No|
 |--|--|--|
 |1. | GOH JING YANG   |A22EC0052|
-|2. | MULYANI BINTI SARIPUDDIN | A22EC|
+|2. | MULYANI BINTI SARIPUDDIN | A22EC0223|
 
 <div class="logbook-section">
     <h3>Research Content Logbook</h3>
