@@ -5,7 +5,7 @@
 |No. | Member Name | Matric No|
 |--|--|--|
 |1. | GOH JING YANG   |A22EC0052|
-|2. | MULYANI BINTI SARIPUDDIN | A22EC|
+|2. | MULYANI BINTI SARIPUDDIN | A22EC0223|
 
 <div class="logbook-section">
     <h3>Research Content Logbook</h3>
@@ -35,10 +35,17 @@
         </tr>
        <tr>
             <td>2.</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>13/10/24</td>
+            <td>MULYANI SARIPUDDIN</td>
+            <td>Research on sustainability in Supply Chain Management</td>                      <td>Searched Google using keyword: 
+            "Sustainability in Supply Chain Management"
+            <br>
+            <br> 
+                Article(s) found:
+            <br>
+                1. https://www.maersk.com/supply-chain-logistics/management?gad_source=1&gclid=Cj0KCQjwgrO4BhC2ARIsAKQ7zUkhFRm_wt4q1HAtBpqralRLJ4uRt5wc1-e29K2HBFGF9qLKUxzn2-0aAhevEALw_wcB&gclsrc=aw.ds
+                2. https://www.sedex.com/blog/what-is-supply-chain-sustainability-and-why-is-it-important/ 
+            </td>
         </tr>
       <tr>
             <td>3.</td>
