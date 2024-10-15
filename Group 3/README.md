@@ -29,7 +29,6 @@
             Article(s) found:
             <br>
             1. https://www.sap.com/sea/products/technology-platform/process-automation/what-is-rpa.html
-            <br>
             2.https://en.wikipedia.org/wiki/Supply_chain_management
             3.https://www.ibm.com/topics/supply-chain-management
             </td>
@@ -45,6 +44,7 @@
                 Article(s) found:
             <br>
                 1. https://www.maersk.com/supply-chain-logistics/management?gad_source=1&gclid=Cj0KCQjwgrO4BhC2ARIsAKQ7zUkhFRm_wt4q1HAtBpqralRLJ4uRt5wc1-e29K2HBFGF9qLKUxzn2-0aAhevEALw_wcB&gclsrc=aw.ds
+            <br>
                 2. https://www.sedex.com/blog/what-is-supply-chain-sustainability-and-why-is-it-important/ 
             </td>
         </tr>
