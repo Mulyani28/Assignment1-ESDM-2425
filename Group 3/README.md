@@ -100,10 +100,10 @@
         </tr>
      <tr>
             <td>6.</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>17/10/24</td>
+            <td>TIEW CHUAN RONG</td>
+            <td>Created a Google Document formatted in IEEE style </td>
+            <td>https://docs.google.com/document/d/1krJDa7LtW9yihgrBtLEgdAwEfmXnfeIom3mnWbpYC8o/edit?usp=sharing</td>
         </tr>
     <tr>
             <td>7.</td>
