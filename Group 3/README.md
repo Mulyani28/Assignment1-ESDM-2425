@@ -85,6 +85,8 @@
                 3. https://www.turing.com/resources/blockchain-for-supply-chains#blockchain-use-cases-in-supply-chain-management
                 <br>
                 4. https://consensys.io/blockchain-use-cases/supply-chain-management
+                <br>
+                5. https://cointelegraph.com/explained/how-blockchain-technology-is-used-in-supply-chain-management
             </td>
         </tr>
       <tr>
